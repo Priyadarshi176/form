@@ -97,7 +97,7 @@ setTimeout(() => {
 
 setTimeout(() => {
     toast.classList.remove("show"); // slide out
-}, 3000);
+}, 4000);
 </script>
 
 <?php } ?>
